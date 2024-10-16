@@ -1,0 +1,22 @@
+2024-10-16  14:58:25-myapp-INFO-This is a info message
+2024-10-16  14:58:25-myapp-WARNING-This is a warning message
+2024-10-16  14:58:25-myapp-ERROR-This is a error message
+2024-10-16  14:58:25-myapp-CRITICAL-This is a critical message
+2024-10-16  14:58:39-myapp-INFO-This is a info message
+2024-10-16  14:58:39-myapp-WARNING-This is a warning message
+2024-10-16  14:58:39-myapp-ERROR-This is a error message
+2024-10-16  14:58:39-myapp-CRITICAL-This is a critical message
+2024-10-16  14:59:00-myapp-INFO-This is a info message
+2024-10-16  14:59:00-myapp-WARNING-This is a warning message
+2024-10-16  14:59:00-myapp-ERROR-This is a error message
+2024-10-16  14:59:00-myapp-CRITICAL-This is a critical message
+2024-10-16  14:59:30-myapp-INFO-This is a info message
+2024-10-16  14:59:30-myapp-WARNING-This is a warning message
+2024-10-16  14:59:30-myapp-ERROR-This is a error message
+2024-10-16  14:59:30-myapp-CRITICAL-This is a critical message
+2024-10-16  15:23:41-__main__-ERROR-this is Zero devision error
+Traceback (most recent call last):
+  File "C:\Users\aariz\AppData\Local\Temp\ipykernel_22044\3152282938.py", line 9, in divide
+    return a/b
+           ~^~
+ZeroDivisionError: division by zero

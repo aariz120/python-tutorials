@@ -11,7 +11,7 @@ def total_expenses():
     return sum(expense['amount']for expense in expenses)
 
 def expenses_by_category():
-    categories={}
+    categories=[]
     for expense in expenses:
         category=expense['category']
         amount=expense['amount']
